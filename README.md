@@ -1,1 +1,2 @@
-
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fimages.gamebanana.com%2Fimg%2Fss%2Fmods%2F63f6b1e427559.jpg&f=1&nofb=1&ipt=7d194182032f3ffb074e17b0809b16bba5bd23987db1649c28f1629e0da2b533&ipo=images');]{x0000}$}
